@@ -18,7 +18,7 @@ body {
     max-width: 500px;
 }
 #img{
-    width: 420px !important;
+    max-width: 420px !important;
 }
 #footer {
   position: absolute;
